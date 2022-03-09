@@ -15,9 +15,12 @@
 </p>
 
 <h2>Interested on...</h2>
-<p align="center">
-    <p>Ursina - <a href="https://github.com/pokepetter/ursina">https://github.com/pokepetter/ursina</a><br>
+<table cellpadding="0" align="center">
+  <tr>
+    <td>Ursina - <a href="https://github.com/pokepetter/ursina">https://github.com/pokepetter/ursina</a><br>
        Sketchbook - <a href="https://github.com/swift502/Sketchbook">https://github.com/swift502/Sketchbook</a><br>
        THREE.js - <a href="https://github.com/mrdoob/three.js">https://github.com/mrdoob/three.js</a><br>
-       Mediapipe - <a href="https://github.com/google/mediapipe">https://github.com/google/mediapipe</a><br></p>
-</p>
+       Mediapipe - <a href="https://github.com/google/mediapipe">https://github.com/google/mediapipe</a><br></td>
+    <td><img src="/🔥.gif" width="360px"></td>
+  </tr>
+</table>
