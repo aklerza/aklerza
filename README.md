@@ -21,8 +21,3 @@
        THREE.js - <a href="https://github.com/mrdoob/three.js">https://github.com/mrdoob/three.js</a><br>
        Mediapipe - <a href="https://github.com/google/mediapipe">https://github.com/google/mediapipe</a><br></p>
 </p>
-
-<p>
-    <h3>How to reach me?</h3>
-    <a href="https://discordapp.com/users/706147538927091723"><img alt="Code Python" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
