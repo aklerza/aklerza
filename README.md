@@ -15,12 +15,12 @@
 </p>
 
 <h2>Interested on...</h2>
-<table cellpadding="0" align="center">
+<table width="100%">
   <tr>
-    <td>Ursina - <a href="https://github.com/pokepetter/ursina">https://github.com/pokepetter/ursina</a><br>
+    <td valign="top" width="50%"><img src="/🔥.gif" width="100%"></td>
+    <td valign="top" width="50%"><p>Ursina - <a href="https://github.com/pokepetter/ursina">https://github.com/pokepetter/ursina</a><br>
        Sketchbook - <a href="https://github.com/swift502/Sketchbook">https://github.com/swift502/Sketchbook</a><br>
        THREE.js - <a href="https://github.com/mrdoob/three.js">https://github.com/mrdoob/three.js</a><br>
-       Mediapipe - <a href="https://github.com/google/mediapipe">https://github.com/google/mediapipe</a><br></td>
-   <p align="center"><img src="/🔥.gif"></p>
+       Mediapipe - <a href="https://github.com/google/mediapipe">https://github.com/google/mediapipe</a><br></p></td>
   </tr>
 </table>
