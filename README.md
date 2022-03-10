@@ -21,6 +21,6 @@
        Sketchbook - <a href="https://github.com/swift502/Sketchbook">https://github.com/swift502/Sketchbook</a><br>
        THREE.js - <a href="https://github.com/mrdoob/three.js">https://github.com/mrdoob/three.js</a><br>
        Mediapipe - <a href="https://github.com/google/mediapipe">https://github.com/google/mediapipe</a><br></td>
-    <td><img src="/🔥.gif" width="360px"></td>
+   <p align="center"><img src="/🔥.gif"></p>
   </tr>
 </table>
