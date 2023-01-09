@@ -1,6 +1,6 @@
 <p align="center">
  <img width="128px" src="https://media3.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif?cid=790b76115bfad31e2672a30a291126bf9decfbf919123693&rid=giphy.gif&ct=s" align="center" alt="main_logo"/>
- <h2 align="center">I'm a Back-end Developer - aklerza</h2>
+ <h2 align="center">aklerza's github page.</h2>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 <h2>About me :</h2>
 <p>
-I am a Back-end developer for 5 years. <br>
+I have been a Back-end developer for almost 5 years. Currently, I am passionate about competitive programming.<br>
 ✨ I am Exploring interesting projects in github and trying to make better it <br>
  🎯 In my future projects, I will try to make the world a better place
  </>
