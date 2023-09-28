@@ -13,7 +13,6 @@
     <img alt="Code CPP" src="https://img.shields.io/badge/Code-C++-brightgreen"/>
     <img alt="Code Python" src="https://img.shields.io/badge/Code-Javascript-brightgreen"/>
     <img alt="Code Typescript" src="https://img.shields.io/badge/Code-Typescript-brightgreen"/>
-    <img alt="Code NodeJS" src="https://img.shields.io/badge/Code-Node.JS-brightgreen"/>
     <img alt="Code Python" src="https://img.shields.io/badge/Code-Python-brightgreen"/>
 </p>
 
